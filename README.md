@@ -14,11 +14,10 @@ Designed with Firebase authentication and a sleek UI, it's built for ease of use
 
 - 🔐 **User Authentication**  
   - Email & Password login/register  
-  - Social Logins: Google, GitHub, Facebook, etc.
+  - Social Logins: Google
 
 - 🧰 **Add, Update & Manage Equipment**  
   - Add new sports gear  
-  - Update or delete existing items  
   - View a personalized equipment list
 
 - 🔎 **Product Filtering**  
@@ -27,8 +26,7 @@ Designed with Firebase authentication and a sleek UI, it's built for ease of use
 
 - 🔒 **Secure Private Routes**  
   - Only authenticated users can access routes like:  
-    - Add Equipment  
-    - Update Equipment  
+    - Add Equipment 
     - View Equipment Details
 
 ---
